@@ -1,0 +1,25 @@
+{
+  "name": "properchain",
+  "version": "1.0.0",
+  "description": "A property registry that aims to solve property fraud by using blockhain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinnehvincent/properchain.git"
+  },
+  "keywords": [
+    "property",
+    "deed",
+    "title",
+    "blockchain"
+  ],
+  "author": "Vincent Tshabalala, Pertunia Tladi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinnehvincent/properchain/issues"
+  },
+  "homepage": "https://github.com/vinnehvincent/properchain#readme"
+}
